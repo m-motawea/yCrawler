@@ -31,10 +31,10 @@ Options: "./scheduler.py -p \<download path> -u \<start url> -t \<time in second
 
 Accepts two forms of urls:
 
-  1- Playlist:
+### 1- Playlist:
 
-  https://www.youtube.com/watch?v=qPvPiMbPSTE&list=PLZyvi_9gamL-EE3zQJbU5N3nzJcfNeFHU
+https://www.youtube.com/watch?v=qPvPiMbPSTE&list=PLZyvi_9gamL-EE3zQJbU5N3nzJcfNeFHU
 
-  2- Channel:
+### 2- Channel:
   
-  https://www.youtube.com/channel/UCYb6YWTBfD0EB53shkN_6vA/videos
+https://www.youtube.com/channel/UCYb6YWTBfD0EB53shkN_6vA/videos
