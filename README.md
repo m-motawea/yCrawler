@@ -27,4 +27,4 @@ $ ./install.sh
 ## Usage:
 Crawl a YouTube channel or playlist periodically, save video information, save video thumbs and download videos(optional).
 
-Options: "./scheduler.py -p <download path> -u <start url> -t <time in seconds> (Optional: -D <video download path>) (Optional start as deamon: -d)"
+Options: "./scheduler.py -p \<download path> -u <start url> -t <time in seconds> (Optional: -D <video download path>) (Optional start as deamon: -d)"
