@@ -27,14 +27,14 @@ simple youtube crawler (Challenge for an Interview)
 ## Usage:
 Crawl a YouTube channel or playlist periodically, save video information, save video thumbs and download videos(optional).
 
-Options: "./scheduler.py -p \<download path> -u \<start url> -t \<time in seconds> (Optional: -D \<video download path>) (Optional start as deamon: -d)"
+```Options: "./scheduler.py -p \<download path> -u \<start url> -t \<time in seconds> (Optional: -D \<video download path>) (Optional start as deamon: -d)"```
 
 Accepts two forms of urls:
 
 ### 1- Playlist:
 
-https://www.youtube.com/watch?v=qPvPiMbPSTE&list=PLZyvi_9gamL-EE3zQJbU5N3nzJcfNeFHU
+```https://www.youtube.com/watch?v=qPvPiMbPSTE&list=PLZyvi_9gamL-EE3zQJbU5N3nzJcfNeFHU```
 
 ### 2- Channel:
   
-https://www.youtube.com/channel/UCYb6YWTBfD0EB53shkN_6vA/videos
+```https://www.youtube.com/channel/UCYb6YWTBfD0EB53shkN_6vA/videos```
